@@ -40,7 +40,7 @@ Untuk mengatur menu navigasi, logo, dan widget lainnya:
 ## 🛠️ Teknologi yang Digunakan
 
 - HTML5 & CSS3
-- JavaScript / jQuery (Opsional, jika ada)
+- JavaScript / jQuery
 - Blogger XML Tags & Data Layouts
 
 ## 📝 Lisensi
