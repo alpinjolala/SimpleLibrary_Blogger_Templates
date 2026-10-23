@@ -54,5 +54,5 @@ Jika Anda menemukan _bug_ atau memiliki saran pengembangan, silakan buat [Issue]
 Dibuat dengan ❤️ oleh **[Muhammad Alfin Ramadhan]**  
 Salah satu bentuk menghargai adalah dengan tidak menghapus atribusi atau copyright pada footer blogger template yang digunakan.
 
-_Website:_ [[Link Website/Portofolio Anda](https://www.muhalfinramadhan.web.id/)]  
+_Website:_ [[Muh. Alfin Ramadhan](https://www.muhalfinramadhan.web.id/)]  
 _Email:_ [alfin.ramadhan@uin-antasari.ac.id]
