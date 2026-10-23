@@ -22,11 +22,11 @@ Tema Blogger (XML) yang dirancang khusus untuk website perpustakaan sekolah. Tem
 
 ## 🚀 Cara Pemasangan (Instalasi)
 
-1. **Download Tema:** Unduh file `tema-perpustakaan.xml` dari repository ini (atau menu Releases).
+1. **Download Tema:** Unduh file `SimpleLibrary_Blogger_Templates.xml` dari repository ini (atau menu Releases).
 2. **Login ke Blogger:** Masuk ke dashboard Blogger Anda.
 3. **Pilih Menu Tema (Theme):** Di panel sebelah kiri, klik menu **Tema**.
 4. **Backup Tema Lama:** Sangat disarankan untuk mem-backup tema lama Anda. Klik ikon dropdown (panah ke bawah) di sebelah tombol "Sesuaikan" > pilih **Cadangkan**.
-5. **Upload Tema Baru:** Klik dropdown lagi > pilih **Pulihkan** > klik **Upload** dan pilih file `tema-perpustakaan.xml` yang sudah diunduh.
+5. **Upload Tema Baru:** Klik dropdown lagi > pilih **Pulihkan** > klik **Upload** dan pilih file `SimpleLibrary_Blogger_Templates.xml` yang sudah diunduh.
 6. **Selesai!** Buka blog Anda untuk melihat tampilan baru.
 
 ## ⚙️ Pengaturan Kustom
